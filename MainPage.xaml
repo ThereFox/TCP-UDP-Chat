@@ -59,7 +59,7 @@
                 MinimumWidthRequest="150"
                 Placeholder="Текст для отправки"
                 />
-                <Button Grid.Column="2" Text="Отправить" Command="{Binding SendMessage}" />
+            <Button Grid.Column="2" Text="Отправить" Command="{Binding SendMessage}" />
             </Grid>
 
     </Grid>

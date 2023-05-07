@@ -1,4 +1,4 @@
-﻿namespace TCP_UDPClient_;
+﻿namespace TCP_UDPClient;
 
 public static class MauiProgram
 {
